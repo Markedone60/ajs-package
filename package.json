@@ -1,0 +1,23 @@
+{
+  "name": "ajs-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markedone60/ajs-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Markedone60/ajs-package/issues"
+  },
+  "homepage": "https://github.com/Markedone60/ajs-package#readme",
+  "dependencies": {
+    "@markedone60/ajs_homework_platforms_3.1": "^1.0.0"
+  }
+}
